@@ -1,12 +1,12 @@
 {
-  "name": "tnmt-tcpdp",
-  "version": "0.1.3",
-  "author": "tnmt",
+  "name": "pepabo-tcpdp",
+  "version": "0.1.4",
+  "author": "pepabo",
   "summary": "This puppet module install and configure tcpdp (TCP dump tool)",
   "license": "MIT",
-  "source": "https://github.com/tnmt/puppet-tcpdp",
-  "project_page": "https://github.com/tnmt/puppet-tcpdp",
-  "issues_url": "https://github.com/tnmt/puppet-tcpdp/issues",
+  "source": "https://github.com/pepabo/puppet-tcpdp",
+  "project_page": "https://github.com/pepabo/puppet-tcpdp",
+  "issues_url": "https://github.com/pepabo/puppet-tcpdp/issues",
   "dependencies": [
     {
       "name": "puppet-systemd",
